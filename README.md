@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Background Image (Pixiv高收藏Miku图) -->
-<img src="https://img.pixiv.net/img/utu/59395778_p0_master1200.jpg" width="100%" height="300" style="object-fit: cover; opacity: 0.3;" alt="Miku Background"/>
+<img src="https://safebooru.org/images/4619/ed4307f54046c8d23e9ecdd2e8ee6449b3b18ce0.jpg" width="100%" height="300" style="object-fit: cover; opacity: 0.3;" alt="Miku Background"/>
 
 <!-- Overlay with gradient -->
 <img src="https://img.shields.io/badge/-%20-00000000?style=for-the-badge" width="100%" height="300" style="position: absolute; top: 0; left: 0;"/>
@@ -18,8 +18,8 @@
 <!-- Miku GIF Gallery -->
 <table>
   <tr>
-    <td><img src="https://media.giphy.com/media/OME3pPoq4hSpy/giphy.gif" width="150" alt="Miku Dance 1"/></td>
-    <td><img src="https://media.giphy.com/media/Qvw9asmBmdSw8/giphy.gif" width="150" alt="Miku Singing"/></td>
+    <td><img src="https://safebooru.org/images/4453/e91df15bf8d647dbad4b40d79b7265fc647f5116.gif" width="150" alt="Miku Dance 1"/></td>
+    <td><img src="https://safebooru.org/images/4453/c52d07e072983334bd82f202f842ce05411a8d18.gif" width="150" alt="Miku Singing"/></td>
     <td><img src="https://media.giphy.com/media/l0HlNQ03J5JR0WwVi/giphy.gif" width="150" alt="Miku Wave"/></td>
     <td><img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="150" alt="Miku Sparkle"/></td>
   </tr>
@@ -57,10 +57,10 @@
 <!-- Miku Image Gallery (Pixiv高收藏) -->
 <table>
   <tr>
-    <td><img src="https://img.pixiv.net/img/utu/59395778_p0_master1200.jpg" width="200" alt="Miku Art 1"/></td>
-    <td><img src="https://img.pixiv.net/img/hews/60640319_p0_master1200.jpg" width="200" alt="Miku Art 2"/></td>
-    <td><img src="https://img.pixiv.net/img/utu/59395778_p1_master1200.jpg" width="200" alt="Miku Art 3"/></td>
-    <td><img src="https://img.pixiv.net/img/hews/60640319_p1_master1200.jpg" width="200" alt="Miku Art 4"/></td>
+    <td><img src="https://safebooru.org/images/4619/ed4307f54046c8d23e9ecdd2e8ee6449b3b18ce0.jpg" width="200" alt="Miku Art 1"/></td>
+    <td><img src="https://safebooru.org/images/2566/adda1777ac7a9a89763c0ade873c840f0c07f766.jpg" width="200" alt="Miku Art 2"/></td>
+    <td><img src="https://safebooru.org/images/4619/14fcd3507038cb1636e15d640de74c13deac4fa3.png" width="200" alt="Miku Art 3"/></td>
+    <td><img src="https://safebooru.org/images/4567/b070f0fe49533ad78fad889e6e81a3e2e74665fa.jpg" width="200" alt="Miku Art 4"/></td>
   </tr>
 </table>
 
@@ -72,7 +72,7 @@
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
 <!-- Miku Quote -->
-<img src="https://media.giphy.com/media/Qvw9asmBmdSw8/giphy.gif" width="200" alt="Miku Singing"/>
+<img src="https://safebooru.org/images/4453/c52d07e072983334bd82f202f842ce05411a8d18.gif" width="200" alt="Miku Singing"/>
 
 </div>
 
@@ -138,7 +138,7 @@
 
 <!-- ===== ANIMATED DIVIDER ===== -->
 <div align="center">
-<img src="https://media.giphy.com/media/OME3pPoq4hSpy/giphy.gif" width="100%" height="15" alt="Miku Dance Divider"/>
+<img src="https://safebooru.org/images/4453/e91df15bf8d647dbad4b40d79b7265fc647f5116.gif" width="100%" height="15" alt="Miku Dance Divider"/>
 </div>
 
 <!-- ===== GITHUB STATS ===== -->
@@ -161,7 +161,7 @@
 <!-- Miku GIFs -->
 <table>
   <tr>
-    <td><img src="https://media.giphy.com/media/Qvw9asmBmdSw8/giphy.gif" width="120" alt="Miku Singing"/></td>
+    <td><img src="https://safebooru.org/images/4453/c52d07e072983334bd82f202f842ce05411a8d18.gif" width="120" alt="Miku Singing"/></td>
     <td><img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="120" alt="Miku Cute"/></td>
     <td><img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="120" alt="Miku Heart"/></td>
   </tr>
@@ -208,7 +208,7 @@
 <!-- Miku GIFs -->
 <table>
   <tr>
-    <td><img src="https://media.giphy.com/media/OME3pPoq4hSpy/giphy.gif" width="100" alt="Miku Dance 1"/></td>
+    <td><img src="https://safebooru.org/images/4453/e91df15bf8d647dbad4b40d79b7265fc647f5116.gif" width="100" alt="Miku Dance 1"/></td>
     <td><img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="100" alt="Miku Sparkle"/></td>
     <td><img src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif" width="100" alt="Miku Cute"/></td>
     <td><img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100" alt="Miku Heart"/></td>
@@ -233,7 +233,7 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=fxrc415&theme=redical&hide_border=true&area=true" width="100%" alt="Activity Graph 2"/>
 
 <!-- Miku GIF -->
-<img src="https://media.giphy.com/media/Qvw9asmBmdSw8/giphy.gif" width="180" alt="Miku Singing"/>
+<img src="https://safebooru.org/images/4453/c52d07e072983334bd82f202f842ce05411a8d18.gif" width="180" alt="Miku Singing"/>
 
 </div>
 
@@ -250,14 +250,14 @@
 <!-- Pixiv高收藏Miku图片 -->
 <table>
   <tr>
-    <td><img src="https://img.pixiv.net/img/utu/59395778_p0_master1200.jpg" width="250" alt="Miku Pixiv 1"/></td>
-    <td><img src="https://img.pixiv.net/img/hews/60640319_p0_master1200.jpg" width="250" alt="Miku Pixiv 2"/></td>
-    <td><img src="https://img.pixiv.net/img/utu/59395778_p1_master1200.jpg" width="250" alt="Miku Pixiv 3"/></td>
+    <td><img src="https://safebooru.org/images/4619/ed4307f54046c8d23e9ecdd2e8ee6449b3b18ce0.jpg" width="250" alt="Miku Pixiv 1"/></td>
+    <td><img src="https://safebooru.org/images/2566/adda1777ac7a9a89763c0ade873c840f0c07f766.jpg" width="250" alt="Miku Pixiv 2"/></td>
+    <td><img src="https://safebooru.org/images/4619/14fcd3507038cb1636e15d640de74c13deac4fa3.png" width="250" alt="Miku Pixiv 3"/></td>
   </tr>
   <tr>
-    <td><img src="https://img.pixiv.net/img/hews/60640319_p1_master1200.jpg" width="250" alt="Miku Pixiv 4"/></td>
-    <td><img src="https://img.pixiv.net/img/utu/59395778_p2_master1200.jpg" width="250" alt="Miku Pixiv 5"/></td>
-    <td><img src="https://media.giphy.com/media/OME3pPoq4hSpy/giphy.gif" width="250" alt="Miku GIF"/></td>
+    <td><img src="https://safebooru.org/images/4567/b070f0fe49533ad78fad889e6e81a3e2e74665fa.jpg" width="250" alt="Miku Pixiv 4"/></td>
+    <td><img src="https://safebooru.org/images/4066/52d0e5d69ee1465d7471fd967f49b0b47d314f2b.jpg" width="250" alt="Miku Pixiv 5"/></td>
+    <td><img src="https://safebooru.org/images/4453/e91df15bf8d647dbad4b40d79b7265fc647f5116.gif" width="250" alt="Miku GIF"/></td>
   </tr>
 </table>
 
@@ -276,7 +276,7 @@
 <!-- Miku GIF Gallery -->
 <table>
   <tr>
-    <td><img src="https://media.giphy.com/media/Qvw9asmBmdSw8/giphy.gif" width="180" alt="Miku Singing"/></td>
+    <td><img src="https://safebooru.org/images/4453/c52d07e072983334bd82f202f842ce05411a8d18.gif" width="180" alt="Miku Singing"/></td>
     <td><img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="180" alt="Miku Sparkle"/></td>
     <td><img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="180" alt="Miku Dance"/></td>
   </tr>
@@ -317,7 +317,7 @@
 </a>
 
 <!-- Miku GIF -->
-<img src="https://media.giphy.com/media/OME3pPoq4hSpy/giphy.gif" width="150" alt="Miku Dance"/>
+<img src="https://safebooru.org/images/4453/e91df15bf8d647dbad4b40d79b7265fc647f5116.gif" width="150" alt="Miku Dance"/>
 
 </div>
 
@@ -338,7 +338,7 @@
 <!-- Miku Quote -->
 <table>
   <tr>
-    <td><img src="https://media.giphy.com/media/Qvw9asmBmdSw8/giphy.gif" width="150" alt="Miku Singing"/></td>
+    <td><img src="https://safebooru.org/images/4453/c52d07e072983334bd82f202f842ce05411a8d18.gif" width="150" alt="Miku Singing"/></td>
     <td><img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="150" alt="Miku Sparkle"/></td>
     <td><img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="150" alt="Miku Dance"/></td>
   </tr>
@@ -359,7 +359,7 @@
 <div align="center">
 
 <!-- Background Image (Pixiv高收藏Miku图) -->
-<img src="https://img.pixiv.net/img/hews/60640319_p0_master1200.jpg" width="100%" height="200" style="object-fit: cover; opacity: 0.2;" alt="Miku Footer Background"/>
+<img src="https://safebooru.org/images/2566/adda1777ac7a9a89763c0ade873c840f0c07f766.jpg" width="100%" height="200" style="object-fit: cover; opacity: 0.2;" alt="Miku Footer Background"/>
 
 </div>
 
