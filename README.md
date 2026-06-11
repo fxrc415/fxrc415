@@ -1,14 +1,14 @@
 <!-- ===== HEADER ===== -->
 <div align="center">
 
-<!-- Background Image -->
-<img src="https://safebooru.org/images/577/8a08d52261407d8f95a087a57e3c78aff149ef8d.jpg" width="100%" height="300" style="object-fit: cover; opacity: 0.3;" alt="Miku Background"/>
+<!-- Header Image - 调整比例为 16:9 -->
+<img src="https://safebooru.org/images/577/27aea75bf9c8ea932d5a6646a80fd8866aaee8f0.jpg" width="800" height="450" style="object-fit: cover; border-radius: 10px;" alt="Miku Header"/>
 
 <!-- Logo -->
-<img src="./miku-star-factory-logo.svg" width="300" alt="Star Factory Miku Logo"/>
+<img src="./miku-star-factory-logo.svg" width="250" alt="Star Factory Miku Logo"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=500&color=39C5BB&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=%F0%9F%8E%A4+%E6%98%9F%E5%B7%A5%E5%8E%82+%7C+Star+Factory;39+39+39+%7C+MIKU+MIKU+MIKU;rebuild+the+spirit+of+the+internet+%F0%9F%8C%9F;%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5%E3%81%AF%E4%B8%96%E7%95%8C%E3%82%92%E6%95%91%E3%81%86)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=500&color=39C5BB&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%F0%9F%8E%A4+%E6%98%9F%E5%B7%A5%E5%8E%82+%7C+Star+Factory;39+39+39+%7C+MIKU+MIKU+MIKU;rebuild+the+spirit+of+the+internet+%F0%9F%8C%9F;%E5%88%9D%E9%9F%B3%E6%9C%AA%E6%9D%A5%E3%81%AF%E4%B8%96%E7%95%8C%E3%82%92%E6%95%91%E3%81%86)](https://git.io/typing-svg)
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=fxrc415&color=39C5BB&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
@@ -22,7 +22,7 @@
 
 <!-- ===== DIVIDER ===== -->
 <div align="center">
-<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100%" height="10" alt="Miku Heart Divider"/>
+<img src="https://safebooru.org/images/1600/a72074215081e861755120fc752fc4c8be387455.gif" width="100%" height="10" alt="Miku Divider"/>
 </div>
 
 <!-- ===== ABOUT ===== -->
@@ -40,7 +40,32 @@
 
 <!-- ===== DIVIDER ===== -->
 <div align="center">
-<img src="https://media.giphy.com/media/l0HlNQ03J5JR0WwVi/giphy.gif" width="100%" height="15" alt="Miku Wave Divider"/>
+<img src="https://safebooru.org/images/1088/b0a9cc09b5d364dd987f8150cda82b5328f8aed6.gif" width="100%" height="15" alt="Miku Divider"/>
+</div>
+
+<!-- ===== MIKU SHOWCASE ===== -->
+<div align="center">
+
+## 🌟 Miku Showcase
+
+<table>
+  <tr>
+    <td><img src="https://safebooru.org/images/577/20615bded2e9e2c6492e934dae0d490fab7ff5be.jpg" width="250" height="250" style="object-fit: cover; border-radius: 10px;" alt="Miku 1"/></td>
+    <td><img src="https://safebooru.org/images/577/2f654a57b9127237d3c05b1c7290934eb11f4e5e.jpg" width="250" height="250" style="object-fit: cover; border-radius: 10px;" alt="Miku 2"/></td>
+    <td><img src="https://safebooru.org/images/577/a04fd366c1e99fffcd723fd00bdc3e0e3a654850.jpg" width="250" height="250" style="object-fit: cover; border-radius: 10px;" alt="Miku 3"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://safebooru.org/images/65/e184bb855de63207c207aaa7a1b50a9bc1f00c98.jpg" width="250" height="250" style="object-fit: cover; border-radius: 10px;" alt="Miku 4"/></td>
+    <td><img src="https://safebooru.org/images/65/ff889ab3bf0312a2677bd2a1f45824b0cb225592.jpg" width="250" height="250" style="object-fit: cover; border-radius: 10px;" alt="Miku 5"/></td>
+    <td><img src="https://safebooru.org/images/65/f2ad1d97bd504f2ba24864d4774237436a75c785.jpg" width="250" height="250" style="object-fit: cover; border-radius: 10px;" alt="Miku 6"/></td>
+  </tr>
+</table>
+
+</div>
+
+<!-- ===== DIVIDER ===== -->
+<div align="center">
+<img src="https://safebooru.org/images/1088/ae7a3773c88ab9daa96bc53e586891678605d1ed.gif" width="100%" height="12" alt="Miku Divider"/>
 </div>
 
 <!-- ===== TECH STACK ===== -->
@@ -66,7 +91,7 @@
 
 <!-- ===== DIVIDER ===== -->
 <div align="center">
-<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="100%" height="12" alt="Miku Cute Divider"/>
+<img src="https://safebooru.org/images/1600/a72074215081e861755120fc752fc4c8be387455.gif" width="100%" height="10" alt="Miku Divider"/>
 </div>
 
 <!-- ===== SKILLS ===== -->
@@ -89,7 +114,7 @@
 
 <!-- ===== DIVIDER ===== -->
 <div align="center">
-<img src="https://media.giphy.com/media/OME3pPoq4hSpy/giphy.gif" width="100%" height="15" alt="Miku Dance Divider"/>
+<img src="https://safebooru.org/images/1088/b0a9cc09b5d364dd987f8150cda82b5328f8aed6.gif" width="100%" height="15" alt="Miku Divider"/>
 </div>
 
 <!-- ===== GITHUB STATS ===== -->
@@ -107,7 +132,7 @@
 
 <!-- ===== DIVIDER ===== -->
 <div align="center">
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100%" height="15" alt="Miku Dance Divider"/>
+<img src="https://safebooru.org/images/1088/ae7a3773c88ab9daa96bc53e586891678605d1ed.gif" width="100%" height="12" alt="Miku Divider"/>
 </div>
 
 <!-- ===== CONTRIBUTION GRAPH ===== -->
@@ -121,7 +146,7 @@
 
 <!-- ===== DIVIDER ===== -->
 <div align="center">
-<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100%" height="10" alt="Miku Heart Divider"/>
+<img src="https://safebooru.org/images/1600/a72074215081e861755120fc752fc4c8be387455.gif" width="100%" height="10" alt="Miku Divider"/>
 </div>
 
 <!-- ===== TROPHY ===== -->
@@ -135,7 +160,7 @@
 
 <!-- ===== DIVIDER ===== -->
 <div align="center">
-<img src="https://media.giphy.com/media/l0HlNQ03J5JR0WwVi/giphy.gif" width="100%" height="15" alt="Miku Wave Divider"/>
+<img src="https://safebooru.org/images/1088/b0a9cc09b5d364dd987f8150cda82b5328f8aed6.gif" width="100%" height="15" alt="Miku Divider"/>
 </div>
 
 <!-- ===== MIKU GALLERY ===== -->
@@ -145,14 +170,14 @@
 
 <table>
   <tr>
-    <td><img src="https://safebooru.org/images/577/27aea75bf9c8ea932d5a6646a80fd8866aaee8f0.jpg" width="250" alt="Miku 1"/></td>
-    <td><img src="https://safebooru.org/images/577/20615bded2e9e2c6492e934dae0d490fab7ff5be.jpg" width="250" alt="Miku 2"/></td>
-    <td><img src="https://safebooru.org/images/577/2f654a57b9127237d3c05b1c7290934eb11f4e5e.jpg" width="250" alt="Miku 3"/></td>
+    <td><img src="https://safebooru.org/images/65/0d4a666176bd789b1c2a7995e703ef4f7917eaa6.jpg" width="250" height="250" style="object-fit: cover; border-radius: 10px;" alt="Miku 7"/></td>
+    <td><img src="https://safebooru.org/images/65/0797cfca17fb1a7e68a2e07726fc177f67dcf1df.jpg" width="250" height="250" style="object-fit: cover; border-radius: 10px;" alt="Miku 8"/></td>
+    <td><img src="https://safebooru.org/images/65/1e22dd32f80a120c88099780aa1fbc4c88e17116.jpg" width="250" height="250" style="object-fit: cover; border-radius: 10px;" alt="Miku 9"/></td>
   </tr>
   <tr>
-    <td><img src="https://safebooru.org/images/577/a04fd366c1e99fffcd723fd00bdc3e0e3a654850.jpg" width="250" alt="Miku 4"/></td>
-    <td><img src="https://safebooru.org/images/65/e184bb855de63207c207aaa7a1b50a9bc1f00c98.jpg" width="250" alt="Miku 5"/></td>
-    <td><img src="https://safebooru.org/images/65/ff889ab3bf0312a2677bd2a1f45824b0cb225592.jpg" width="250" alt="Miku 6"/></td>
+    <td><img src="https://safebooru.org/images/65/12cdf920971d1ff55324f617225307dca36398ea.jpg" width="250" height="250" style="object-fit: cover; border-radius: 10px;" alt="Miku 10"/></td>
+    <td><img src="https://safebooru.org/images/65/5dfc8d8c9d876ead1591512ce34feac1f369c4d9.png" width="250" height="250" style="object-fit: cover; border-radius: 10px;" alt="Miku 11"/></td>
+    <td><img src="https://safebooru.org/images/65/c0f428a2f6123dba4035e44fe266429b3a71d308.jpg" width="250" height="250" style="object-fit: cover; border-radius: 10px;" alt="Miku 12"/></td>
   </tr>
 </table>
 
@@ -160,7 +185,7 @@
 
 <!-- ===== DIVIDER ===== -->
 <div align="center">
-<img src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif" width="100%" height="10" alt="Miku Sparkle Divider"/>
+<img src="https://safebooru.org/images/1088/ae7a3773c88ab9daa96bc53e586891678605d1ed.gif" width="100%" height="12" alt="Miku Divider"/>
 </div>
 
 <!-- ===== CONTACT ===== -->
@@ -184,7 +209,7 @@
 
 <!-- ===== DIVIDER ===== -->
 <div align="center">
-<img src="https://media.giphy.com/media/3o7TKMt1VVNkHV2PaE/giphy.gif" width="100%" height="8" alt="Miku Heart Divider"/>
+<img src="https://safebooru.org/images/1600/a72074215081e861755120fc752fc4c8be387455.gif" width="100%" height="8" alt="Miku Divider"/>
 </div>
 
 <!-- ===== QUOTE ===== -->
@@ -202,7 +227,7 @@
 
 </div>
 
-<!-- ===== BACKGROUND FOOTER ===== -->
+<!-- ===== FOOTER ===== -->
 <div align="center">
-<img src="https://safebooru.org/images/577/8a08d52261407d8f95a087a57e3c78aff149ef8d.jpg" width="100%" height="200" style="object-fit: cover; opacity: 0.2;" alt="Miku Footer Background"/>
+<img src="https://safebooru.org/images/65/a7c515b9458f3973821474d589eb9794aa54ef09.jpg" width="800" height="200" style="object-fit: cover; border-radius: 10px; opacity: 0.3;" alt="Miku Footer"/>
 </div>
