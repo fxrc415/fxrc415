@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- Background Image (Pixiv高收藏Miku图) -->
-<img src="https://safebooru.org/images/4619/ed4307f54046c8d23e9ecdd2e8ee6449b3b18ce0.jpg" width="100%" height="300" style="object-fit: cover; opacity: 0.3;" alt="Miku Background"/>
+<img src="https://tse2-mm.cn.bing.net/th/id/OIP-C.5LbO2UU7m9LimeMPU5ujAQHaEK?w=256&h=180&c=7&r=0&o=7&pid=1.7&rm=3" width="100%" height="300" style="object-fit: cover; opacity: 0.3;" alt="Miku Background"/>
 
 <!-- Overlay with gradient -->
 <img src="https://img.shields.io/badge/-%20-00000000?style=for-the-badge" width="100%" height="300" style="position: absolute; top: 0; left: 0;"/>
@@ -57,10 +57,10 @@
 <!-- Miku Image Gallery (Pixiv高收藏) -->
 <table>
   <tr>
-    <td><img src="https://safebooru.org/images/4619/ed4307f54046c8d23e9ecdd2e8ee6449b3b18ce0.jpg" width="200" alt="Miku Art 1"/></td>
-    <td><img src="https://safebooru.org/images/2566/adda1777ac7a9a89763c0ade873c840f0c07f766.jpg" width="200" alt="Miku Art 2"/></td>
-    <td><img src="https://safebooru.org/images/4619/14fcd3507038cb1636e15d640de74c13deac4fa3.png" width="200" alt="Miku Art 3"/></td>
-    <td><img src="https://safebooru.org/images/4567/b070f0fe49533ad78fad889e6e81a3e2e74665fa.jpg" width="200" alt="Miku Art 4"/></td>
+    <td><img src="https://tse2-mm.cn.bing.net/th/id/OIP-C.5LbO2UU7m9LimeMPU5ujAQHaEK?w=256&h=180&c=7&r=0&o=7&pid=1.7&rm=3" width="200" alt="Miku Art 1"/></td>
+    <td><img src="https://tse2-mm.cn.bing.net/th/id/OIP-C.5LbO2UU7m9LimeMPU5ujAQHaEK?w=256&h=180&c=7&r=0&o=7&pid=1.7&rm=3" width="200" alt="Miku Art 2"/></td>
+    <td><img src="https://tse4-mm.cn.bing.net/th/id/OIP-C.eFPUZBrLGXbQXXx1bk-P4QHaEo?w=89&h=89&c=1&rs=1&qlt=70&r=0&o=7&pid=InlineBlock&rm=3" width="200" alt="Miku Art 3"/></td>
+    <td><img src="https://tse3-mm.cn.bing.net/th/id/OIP-C.lhVhzHUjTUXUsTU0HndRtAHaNK?w=89&h=90&c=1&rs=1&qlt=70&r=0&o=7&pid=InlineBlock&rm=3" width="200" alt="Miku Art 4"/></td>
   </tr>
 </table>
 
@@ -250,13 +250,13 @@
 <!-- Pixiv高收藏Miku图片 -->
 <table>
   <tr>
-    <td><img src="https://safebooru.org/images/4619/ed4307f54046c8d23e9ecdd2e8ee6449b3b18ce0.jpg" width="250" alt="Miku Pixiv 1"/></td>
-    <td><img src="https://safebooru.org/images/2566/adda1777ac7a9a89763c0ade873c840f0c07f766.jpg" width="250" alt="Miku Pixiv 2"/></td>
-    <td><img src="https://safebooru.org/images/4619/14fcd3507038cb1636e15d640de74c13deac4fa3.png" width="250" alt="Miku Pixiv 3"/></td>
+    <td><img src="https://tse2-mm.cn.bing.net/th/id/OIP-C.5LbO2UU7m9LimeMPU5ujAQHaEK?w=256&h=180&c=7&r=0&o=7&pid=1.7&rm=3" width="250" alt="Miku Pixiv 1"/></td>
+    <td><img src="https://tse2-mm.cn.bing.net/th/id/OIP-C.5LbO2UU7m9LimeMPU5ujAQHaEK?w=256&h=180&c=7&r=0&o=7&pid=1.7&rm=3" width="250" alt="Miku Pixiv 2"/></td>
+    <td><img src="https://tse4-mm.cn.bing.net/th/id/OIP-C.eFPUZBrLGXbQXXx1bk-P4QHaEo?w=89&h=89&c=1&rs=1&qlt=70&r=0&o=7&pid=InlineBlock&rm=3" width="250" alt="Miku Pixiv 3"/></td>
   </tr>
   <tr>
-    <td><img src="https://safebooru.org/images/4567/b070f0fe49533ad78fad889e6e81a3e2e74665fa.jpg" width="250" alt="Miku Pixiv 4"/></td>
-    <td><img src="https://safebooru.org/images/4066/52d0e5d69ee1465d7471fd967f49b0b47d314f2b.jpg" width="250" alt="Miku Pixiv 5"/></td>
+    <td><img src="https://tse3-mm.cn.bing.net/th/id/OIP-C.lhVhzHUjTUXUsTU0HndRtAHaNK?w=89&h=90&c=1&rs=1&qlt=70&r=0&o=7&pid=InlineBlock&rm=3" width="250" alt="Miku Pixiv 4"/></td>
+    <td><img src="https://tse4-mm.cn.bing.net/th/id/OIP-C.cz3ACKxvQzSYDBM8ny3qYQHaEK?w=291&h=180&c=7&r=0&o=7&pid=1.7&rm=3" width="250" alt="Miku Pixiv 5"/></td>
     <td><img src="https://safebooru.org/images/4453/e91df15bf8d647dbad4b40d79b7265fc647f5116.gif" width="250" alt="Miku GIF"/></td>
   </tr>
 </table>
@@ -359,7 +359,7 @@
 <div align="center">
 
 <!-- Background Image (Pixiv高收藏Miku图) -->
-<img src="https://safebooru.org/images/2566/adda1777ac7a9a89763c0ade873c840f0c07f766.jpg" width="100%" height="200" style="object-fit: cover; opacity: 0.2;" alt="Miku Footer Background"/>
+<img src="https://tse2-mm.cn.bing.net/th/id/OIP-C.5LbO2UU7m9LimeMPU5ujAQHaEK?w=256&h=180&c=7&r=0&o=7&pid=1.7&rm=3" width="100%" height="200" style="object-fit: cover; opacity: 0.2;" alt="Miku Footer Background"/>
 
 </div>
 
